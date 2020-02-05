@@ -1,0 +1,10 @@
+****    LAST UPDATED  05-Feb-2019 04:05pm *****
+
+* singlie data display
+* radio button choosen when submited
+* same value was printing two times
+* geitting single line but empty values as well.
+* resolve web app responsiveness
+* Unfortunately witj misunderstading sing word print function was activated (Removed In this project)
+* Added height to textarea field
+* same value such as hello-hello, hi-hi, me-me was displaying, [has been fixed in this update]

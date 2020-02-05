@@ -1,0 +1,47 @@
+
+
+@media screen and (max-width: 375px) {
+    .form-area h1{
+        font-size: 26px;
+    }
+    .mobile-view{
+        font-size: 15px;
+    }
+  
+}
+
+@media screen and (max-width: 360px) {
+    .form-area h1{
+        font-size: 25px;
+    }
+   
+    .combined-result{
+        font-size: 17px;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .result{
+        flex: 0 0 32.96%;
+    
+    }
+    
+}
+
+@media screen and (max-width: 425px) {
+    .result{
+        flex: 0 0 100%;
+    
+    }
+    .combined-result {
+        max-width: 99.8%;
+    }
+}
+
+@media screen and (max-width: 375px) {
+    .computer-view{
+        font-size: 14px!important;
+    
+    }
+    
+}

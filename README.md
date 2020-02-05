@@ -1,0 +1,1 @@
+A simple text generator developed in object oriented php7 by Shaumik Ghosh
